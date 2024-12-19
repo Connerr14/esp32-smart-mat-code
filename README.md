@@ -1,0 +1,1 @@
+This is the code for my smart mat project. It is powered by an esp-32, this code, a yoga mat, and additional parts. This product allows people to accurately track the amount of full pushups done. It also has a mode to track the amount of time you can hold a plank for.
